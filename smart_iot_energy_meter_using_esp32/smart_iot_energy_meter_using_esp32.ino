@@ -13,7 +13,7 @@
   *   ✔ Blynk IoT Dashboard Update
   *
   *  Copyright:
-  *  Circuit Diagrams (www.circuitdiagrams.in)
+  *  Mohit Saini
   ***************************************************************
 */
 
